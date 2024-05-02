@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "bwwuigbix2dg4glio1gr-mysql.services.clever-cloud.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MEDICSAFE",
+            "username": "uwmawbdf35w6bszp",
+            "database": "bwwuigbix2dg4glio1gr",
+            "password": "JaNdG3xbYbxcutwq1hfw"
+        }
+    ]
+}
